@@ -18,7 +18,7 @@ functional programming techniques are heavily based on mathematical functions an
 
 e.g
 
-```js
+```javascript
 
 var percentValue = 5;
 var calculateTax = ( value ) => { return value/100 * ( 100 + percentValue ) }
