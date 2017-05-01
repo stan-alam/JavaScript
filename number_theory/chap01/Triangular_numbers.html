@@ -1,0 +1,28 @@
+<html>
+<head>
+<title> Triangular Numbers </title>
+<script>
+
+var n = 1000000;
+var start = new Date();
+start = start.getTime();
+
+function init() {
+	var sum = 0;
+	for  ( i = 1; i < n; i++ ){
+		sum += i;
+	}
+now = new Date();
+now = now.getTime();
+elapsed = ( now - start );
+document.write("The "+n+" the Triangular number is" + sum +"<br/>");
+document.write("Elapsed time was " + elapsed + " millaseconds.");
+}
+
+init();
+</script>
+</head>
+<body>
+</body>
+</html>
+
