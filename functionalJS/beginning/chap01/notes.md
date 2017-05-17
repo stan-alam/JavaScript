@@ -25,6 +25,39 @@ var calculateTax = ( value ) => { return value/100 * ( 100 + percentValue ) }
 
 ```
 
+## Functions vs Methods
+
+A **Function** is a piece of code that can be called by its name. It can pass arguments and return values.
+
+**Methods** are a piece of code that must be called by its name along with its *associated object* name.
+
+```javascript
+
+var simple = (a) => {return a} // a simple function
+simple(2) // called by its name, takes a value and returns the same value, e.g. 2 in 2 out.
+
+
+// here's a method:
+
+var obj = {simple : (a) => {return} }
+obj.simple(3) // called by its name along with its associated object
+
+```
+
+## Referential Transparency
+
+
+```javascript
+
+var identity = ( i ) => {return i}
+
+```
+
+The code snippet is a simple function called identity.
+
+
+
+
 
 
 

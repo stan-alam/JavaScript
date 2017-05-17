@@ -1,0 +1,27 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Proper Factors</title>
+<script>
+
+var n = 30;
+var count = 0;
+
+function countUpFactors(n) {
+	document.write("Proper factors of " + n + " are: <br/>");
+	for ( var i = 1; < n; i++ ) {
+		if (( n % i ) == 0 ) {
+			count++;
+			document.write(i+"<br/>");
+		}
+	}
+document.write("The number of proper factors of " + n + " is " + count + ".");
+}
+countUpFactors(n);
+</script>
+</head>
+<body>
+</body>
+</html>
+
+
