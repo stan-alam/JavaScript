@@ -37,3 +37,33 @@ Within JS there are 4 core ways on how the async model is implemented. These 4 m
 
 **the promise object**
 
+**A callback function is essentially a pattern ( an established solution to a common problem )**
+ *Using the callback function is referred to the callback pattern*
+
+
+**Since functions are first class objects, we can use callback functions in JS**
+
+## What are callback functions ?
+
+**the idea behind callback functions is derived from functional programming**
+
+     THe idea behind callbacks is using functions as arguments as implementing callback functions
+     is as easy as passing regular variables as arguments to functions.
+
+e.g.
+
+```javascript 
+
+${("#btn_1").click().click.function() {
+	alert ("Button was clicked");	
+}};
+
+```
+
+	In the code above we pass a function as a parameter to the click function
+
+	The click function will call (or execute ) the callback function we passed to it
+
+**this is used a lot in jQuery**
+
+
