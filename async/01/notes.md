@@ -20,3 +20,20 @@ see note[01]
 
 
 ## How JavaScript implements as an async model
+
+**JS uses an loop event and tis cycle is called a "tick", since it runs within the time slot bound by the CPU.** 
+An interpreter is responsible for checking whether every tick is an **async callback** to be executed. All other async operations take place within the same tick. THe callbacks are not time dependent but are CPU dependent. Callbacks will run soon as possible.
+
+An **interpreter** is the translator program built into the browsers that translates the entire code to a human-readable language. Errors will be dealt with line by line, first error, halts the run in the browser.
+
+
+Within JS there are 4 core ways on how the async model is implemented. These 4 methods help not only for better performance of the program, but also in easier maintainability of code. These 4 methods are as follows:
+
+ * a callback function
+
+ * The event listener
+
+  **the Publisher/subscriber**
+
+**the promise object**
+
