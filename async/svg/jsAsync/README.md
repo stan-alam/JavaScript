@@ -1,6 +1,5 @@
-## Topics and code related to async JavaScript
+## Notes on Async JavaScript
 
-### Promises - jsAsync
 <a>
   <img src="https://github.com/stan-alam/JavaScript/blob/develop/async/svg/jsAsync/jsAsync-0.svg" width="80%" height="80%">
 </a>
