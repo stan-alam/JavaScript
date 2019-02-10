@@ -48,7 +48,7 @@ return promise;
 
 ```js
 
-//Stub - not compleete
+//Stub - not complete
 
 ```
 
@@ -59,7 +59,7 @@ return promise;
 
 ```js
 
-//Stub - not compleete
+//Stub - not complete
 
 ```
 
@@ -69,7 +69,7 @@ return promise;
 
 ```js
 
-// Stub  -not compleete
+// Stub  -not complete
 
 ```
 
