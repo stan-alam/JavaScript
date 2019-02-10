@@ -47,9 +47,13 @@ return promise;
 </a>
 
 ```js
-
-//Stub - not complete
-
+var promise = delay(1000, 0.5);
+promise.then(function() {
+    console.log("success");
+},
+function() {
+  console.log("failed");
+});
 ```
 
 <a>
@@ -58,9 +62,13 @@ return promise;
 
 
 ```js
-
-//Stub - not complete
-
+var promise = delay(1000, 0.5);
+promise.then(function() {
+    console.log("success" + r);
+},
+function() {
+  console.log("failed" + r);
+});
 ```
 
 <a>
@@ -68,9 +76,12 @@ return promise;
 </a>
 
 ```js
-
-// Stub  -not complete
-
+delay(1000, 0.5).then(function(r) {
+    console.log("success" + r);
+  },
+  function(r) {
+    console.log("failed" + r);
+});
 ```
 
 <a>
