@@ -41,3 +41,42 @@ function delay (t, p) {
 return promise;
 }
 ```
+
+<a>
+  <img src="https://github.com/stan-alam/JavaScript/blob/develop/async/svg/jsAsync/jsAsync-6.svg" width="80%" height="80%">
+</a>
+
+```js
+
+//Stub - not compleete
+
+```
+
+<a>
+  <img src="https://github.com/stan-alam/JavaScript/blob/develop/async/svg/jsAsync/jsAsync-7A.svg" width="80%" height="80%">
+</a>
+
+
+```js
+
+//Stub - not compleete
+
+```
+
+<a>
+  <img src="https://github.com/stan-alam/JavaScript/blob/develop/async/svg/jsAsync/jsAsync-7B.svg" width="80%" height="80%">
+</a>
+
+```js
+
+// Stub  -not compleete
+
+```
+
+<a>
+  <img src="https://github.com/stan-alam/JavaScript/blob/develop/async/svg/jsAsync/jsAsync-7C.svg" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/JavaScript/blob/develop/async/svg/jsAsync/jsAsync-8.svg" width="80%" height="80%">
+</a>
