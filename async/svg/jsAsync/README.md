@@ -89,3 +89,35 @@ delay(1000, 0.5).then(function(r) {
 <a>
   <img src="https://github.com/stan-alam/JavaScript/blob/develop/async/svg/jsAsync/jsAsync-8.svg" width="80%" height="80%">
 </a>
+
+```js
+// Code stub
+```
+
+<a>
+  <img src="https://github.com/stan-alam/JavaScript/blob/develop/async/svg/jsAsync/jsAsync-9A.svg" width="80%" height="80%">
+</a>
+
+```js
+//Code stub
+```
+
+<a>
+  <img src="https://github.com/stan-alam/JavaScript/blob/develop/async/svg/jsAsync/jsAsync-9B.svg" width="80%" height="80%">
+</a>
+
+```js
+//Code stub
+```
+
+<a>
+  <img src="https://github.com/stan-alam/JavaScript/blob/develop/async/svg/jsAsync/jsAsync-10A.svg" width="80%" height="80%">
+</a>
+
+```js
+//Code stub
+```
+
+<a>
+  <img src="https://github.com/stan-alam/JavaScript/blob/develop/async/svg/jsAsync/jsAsync-10B.svg" width="80%" height="80%">
+</a>
