@@ -121,3 +121,14 @@ delay(1000, 0.5).then(function(r) {
 <a>
   <img src="https://github.com/stan-alam/JavaScript/blob/develop/async/svg/jsAsync/jsAsync-10B.svg" width="80%" height="80%">
 </a>
+
+<a>
+  <img src="https://github.com/stan-alam/JavaScript/blob/develop/async/svg/jsAsync/jsAsync-11.svg" width="80%" height="80%">
+</a>
+
+```js
+// code stub
+```
+<a>
+  <img src="https://github.com/stan-alam/JavaScript/blob/develop/async/svg/jsAsync/jsAsync-12.svg" width="80%" height="80%">
+</a>
