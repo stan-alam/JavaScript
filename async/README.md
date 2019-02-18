@@ -93,7 +93,7 @@ delay(1000, 0.5).then(function(r) {
 </a>
 
 ```js
-// Code stub
+// stub
 ```
 
 <a>
@@ -101,15 +101,32 @@ delay(1000, 0.5).then(function(r) {
 </a>
 
 ```js
-//Code stub
+//01
+delay(1000, 0).then( function (value) {
+  console.log(value);
+  return "Hello, Multiverse(s)";
+});
 ```
 
+```js
+//02
+var myPromise1 = delay(1000, 0);
+var myPromise2 = myPromise1.then ( function (value) {
+    console.log(value);
+    return "Hello, Multiverse(s)";
+
+myPromise2.then( function (value ) {
+    console.log(value);
+  })
+});
+
+```    
 <a>
   <img src="https://github.com/stan-alam/JavaScript/blob/develop/async/svg/jsAsync/jsAsync-9B.svg" width="80%" height="80%">
 </a>
 
 ```js
-//Code stub
+//03
 ```
 
 <a>
