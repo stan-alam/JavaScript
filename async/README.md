@@ -128,7 +128,13 @@ myPromise2.then( function (value ) {
 </a>
 
 ```js
-//Code stub
+//004
+delay(1000, 0).then( function (value) {
+  console.log(value);
+  delay(500,0).then(function (value) {
+    console.log(value);
+  });
+});
 ```
 
 <a>
@@ -140,7 +146,16 @@ myPromise2.then( function (value ) {
 </a>
 
 ```js
-// code stub
+//005
+delay(100, 0).then(function (value) {
+  console.log(value);
+});
+
+delay(500.0).then(
+  function (value) {
+    console.log(value);
+  })
+//no chaining  
 ```
 <a>
   <img src="https://github.com/stan-alam/JavaScript/blob/develop/async/svg/jsAsync/jsAsync-12.svg" width="80%" height="80%">
