@@ -93,7 +93,10 @@ delay(1000, 0.5).then(function(r) {
 </a>
 
 ```js
-// stub 01
+//001
+slowFunc(args, sucessCallback, errorCallback);
+//and/or
+slowFunc(args).then(sucessCallback, errorCallback);
 ```
 
 <a>
