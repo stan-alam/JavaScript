@@ -93,7 +93,7 @@ delay(1000, 0.5).then(function(r) {
 </a>
 
 ```js
-// stub
+// stub 01
 ```
 
 <a>
@@ -101,15 +101,18 @@ delay(1000, 0.5).then(function(r) {
 </a>
 
 ```js
-//01
+//02
 delay(1000, 0).then( function (value) {
   console.log(value);
   return "Hello, Multiverse(s)";
 });
 ```
+<a>
+  <img src="https://github.com/stan-alam/JavaScript/blob/develop/async/svg/jsAsync/jsAsync-9B.svg" width="80%" height="80%">
+</a>
 
 ```js
-//02
+//03
 var myPromise1 = delay(1000, 0);
 var myPromise2 = myPromise1.then ( function (value) {
     console.log(value);
@@ -119,16 +122,7 @@ myPromise2.then( function (value ) {
     console.log(value);
   })
 });
-
 ```    
-<a>
-  <img src="https://github.com/stan-alam/JavaScript/blob/develop/async/svg/jsAsync/jsAsync-9B.svg" width="80%" height="80%">
-</a>
-
-```js
-//03
-```
-
 <a>
   <img src="https://github.com/stan-alam/JavaScript/blob/develop/async/svg/jsAsync/jsAsync-10A.svg" width="80%" height="80%">
 </a>
