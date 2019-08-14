@@ -15,3 +15,17 @@
 <a>
   <img src="https://github.com/stan-alam/JavaScript/blob/develop/functionalJS/beginning/images/01/funcJS%20-%203.png" width="80%" height="80%">
 </a>
+
+```js
+#6.A
+function printMsg(elementId, format, msg) {
+    document.querySelector(`#${elementId}`).innerHTML = `<${format}>${message}</${format}>`;
+}
+```
+
+```js
+# 6.B
+var printMsg = run(addToDom('msg'), h1, echo);
+
+printMsg('Hello Multiverse(s)');
+`
