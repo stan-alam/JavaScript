@@ -17,14 +17,14 @@
 </a>
 
 ```js
-#6.A
+//6.A
 function printMsg(elementId, format, msg) {
     document.querySelector(`#${elementId}`).innerHTML = `<${format}>${message}</${format}>`;
 }
 ```
 
 ```js
-# 6.B
+///6.B
 var printMsg = run(addToDom('msg'), h1, echo);
 
 printMsg('Hello Multiverse(s)');
