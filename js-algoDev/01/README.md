@@ -13,5 +13,5 @@
 </a>
 
 <a>
-  <img src="https://github.com/stan-alam/JavaScript/blob/develop/js-algoDev/01/images/o-complexity.png" width="50%" height="50%">
+  <img src="https://github.com/stan-alam/JavaScript/blob/develop/js-algoDev/01/images/o-complexity.png" width="75%" height="75%">
 </a>
