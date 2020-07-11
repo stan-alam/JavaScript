@@ -36,10 +36,29 @@
   <img src="https://github.com/stan-alam/JavaScript/blob/develop/js-algoDev/01/images/js-algoDev01%20-%209.png" width="80%" height="80%">
 </a>
 
+<p align="center">
+  <img src="https://github.com/stan-alam/JavaScript/blob/develop/js-algoDev/01/images/o-complexity.png" width="75%" height="75%">
+</p>
+
 <a>
   <img src="https://github.com/stan-alam/JavaScript/blob/develop/js-algoDev/01/images/js-algoDev01%20-%2010.png" width="80%" height="80%">
 </a>
 
-<p align="center">
-  <img src="https://github.com/stan-alam/JavaScript/blob/develop/js-algoDev/01/images/o-complexity.png" width="75%" height="75%">
-</p>
+```js
+
+/*
+@param {number} number
+@param {number} to the power
+@return {numbner}
+*/
+
+export function iterativePower(number, power) {
+  let result = 1;
+
+  for (let i = 0; i < power; i += 1) {
+    result *= number;
+  }
+
+  return result;
+}
+```
