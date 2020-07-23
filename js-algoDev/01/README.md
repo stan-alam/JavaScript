@@ -127,9 +127,9 @@ export function pairs(letters) {
 
 ```js
 //11.A
-/*@param {number[]} array
-*@param {number} multiplier
-@return [number[]}
+/* @param {number[]} array
+  @param {number} multiplier
+  @return [number[]}
 */
 export function multiplyArrayInPlace(array, multiplier) {
   for (let i = 0; i < array.length; i += 1) {
