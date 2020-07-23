@@ -71,6 +71,18 @@ export function iterativePower(number, power) {
   <img src="https://github.com/stan-alam/JavaScript/blob/develop/js-algoDev/01/images/js-algoDev01%20-%2012.png" width="80%" height="80%">
 </a>
 
+```js
+//8.A
+/* calculate the factorial
+*/
+export function factorial(number) {
+  if(number == 0) {
+    return 1;
+  }
+  return factorial(number -1) * number;
+}
+```
+
 <a>
   <img src="https://github.com/stan-alam/JavaScript/blob/develop/js-algoDev/01/images/js-algoDev01%20-%2013.png" width="80%" height="80%">
 </a>
@@ -82,6 +94,20 @@ export function iterativePower(number, power) {
 <a>
   <img src="https://github.com/stan-alam/JavaScript/blob/develop/js-algoDev/01/images/js-algoDev01%20-%2015A.png" width="80%" height="80%">
 </a>
+
+```js
+//9.A
+export function pairs(letters) {
+  const result = [];
+
+  for (let i = 0; i < letters.length; i += 1) {
+    for (let j = 0; j < letters.length; j += 1) {
+      result.push(`${letters[i]}${letters[j]}`);
+    }
+  }
+  return result;
+}
+```
 
 <a>
   <img src="https://github.com/stan-alam/JavaScript/blob/develop/js-algoDev/01/images/js-algoDev01%20-%2015B.png" width="80%" height="80%">
