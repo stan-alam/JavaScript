@@ -125,6 +125,20 @@ export function pairs(letters) {
   <img src="https://github.com/stan-alam/JavaScript/blob/develop/js-algoDev/01/images/js-algoDev01%20-%2018A.png" width="80%" height="80%">
 </a>
 
+```js
+//11.A
+/*@param {number[]} array
+*@param {number} multiplier
+@return [number[]}
+*/
+export function multiplyArrayInPlace(array, multiplier) {
+  for (let i = 0; i < array.length; i += 1) {
+    array[i] *= multiplier;
+  }
+
+  return array;
+}
+```
 <a>
   <img src="https://github.com/stan-alam/JavaScript/blob/develop/js-algoDev/01/images/js-algoDev01%20-%2018B.png" width="80%" height="80%">
 </a>
