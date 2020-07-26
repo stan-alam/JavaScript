@@ -142,3 +142,25 @@ export function multiplyArrayInPlace(array, multiplier) {
 <a>
   <img src="https://github.com/stan-alam/JavaScript/blob/develop/js-algoDev/01/images/js-algoDev01%20-%2018B.png" width="80%" height="80%">
 </a>
+
+<a>
+  <img src="https://github.com/stan-alam/JavaScript/blob/develop/js-algoDev/01/images/js-algoDev01%20-%2019A.png" width="80%" height="80%">
+</a>
+
+```js
+
+export function multiplyArray(array, multiplier) {
+  const multipliedArray = [...array];
+
+  for (let i = 0; i < multipliedArray.length; i += 1) {
+    multipliedArray[i] *= multiplier;
+  }
+
+  return multipliedArray
+}
+
+```
+
+<a>
+  <img src="https://github.com/stan-alam/JavaScript/blob/develop/js-algoDev/01/images/js-algoDev01%20-%2020.png" width="80%" height="80%">
+</a>
