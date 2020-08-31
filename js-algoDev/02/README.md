@@ -92,15 +92,15 @@ return deletedTail;
 </a>
 
 <a>
-  <img src="https://github.com/stan-alam/JavaScript/blob/develop/js-algoDev/02/images/js-algoDev02%20-%2017.png" width="80%" height="80%">
+  <img src="https://github.com/stan-alam/JavaScript/blob/master/js-algoDev/02/images/js-algoDev02%20-%20page%2017.png" width="80%" height="80%">
 </a>
 
 <a>
-  <img src="https://github.com/stan-alam/JavaScript/blob/develop/js-algoDev/02/images/js-algoDev02%20-%2018.png" width="80%" height="80%">
+  <img src="https://github.com/stan-alam/JavaScript/blob/master/js-algoDev/02/images/js-algoDev02%20-%20page%2018.png" width="80%" height="80%">
 </a>
 
 <a>
-  <img src="https://github.com/stan-alam/JavaScript/blob/develop/js-algoDev/02/images/js-algoDev02%20-%2019A.png" width="80%" height="80%">
+  <img src="https://github.com/stan-alam/JavaScript/blob/master/js-algoDev/02/images/js-algoDev02%20-%20page%2019A.png" width="80%" height="80%">
 </a>
 
 ```js
@@ -108,32 +108,32 @@ return deletedTail;
 ```
 
 <a>
-  <img src="https://github.com/stan-alam/JavaScript/blob/develop/js-algoDev/02/images/js-algoDev02%20-%2019B.png" width="80%" height="80%">
+  <img src="https://github.com/stan-alam/JavaScript/blob/master/js-algoDev/02/images/js-algoDev02%20-%20page%2019B.png" width="80%" height="80%">
 </a>
 
 <a>
-  <img src="https://github.com/stan-alam/JavaScript/blob/develop/js-algoDev/02/images/js-algoDev02%20-%2020A.png" width="80%" height="80%">
+  <img src="https://github.com/stan-alam/JavaScript/blob/master/js-algoDev/02/images/js-algoDev02%20-%20page%2020A.png" width="80%" height="80%">
 </a>
 
 ```js
 //cb24.B
 ```
 <a>
-  <img src="https://github.com/stan-alam/JavaScript/blob/develop/js-algoDev/02/images/js-algoDev02%20-%2020B.png" width="80%" height="80%">
+  <img src="https://github.com/stan-alam/JavaScript/blob/master/js-algoDev/02/images/js-algoDev02%20-%20page%2020B.png" width="80%" height="80%">
 </a>
 
 <a>
-  <img src="https://github.com/stan-alam/JavaScript/blob/develop/js-algoDev/02/images/js-algoDev02%20-%2021.png" width="80%" height="80%">
+  <img src="https://github.com/stan-alam/JavaScript/blob/master/js-algoDev/02/images/js-algoDev02%20-%20page%2021.png" width="80%" height="80%">
 </a>
 
 <a>
-  <img src="https://github.com/stan-alam/JavaScript/blob/develop/js-algoDev/02/images/js-algoDev02%20-%2022.png" width="80%" height="80%">
+  <img src="https://github.com/stan-alam/JavaScript/blob/master/js-algoDev/02/images/js-algoDev02%20-%20page%2022.png" width="80%" height="80%">
 </a>
 
 <a>
-  <img src="https://github.com/stan-alam/JavaScript/blob/develop/js-algoDev/02/images/js-algoDev02%20-%2023.png" width="80%" height="80%">
+  <img src="https://github.com/stan-alam/JavaScript/blob/master/js-algoDev/02/images/js-algoDev02%20-%20page%2023.png" width="80%" height="80%">
 </a>
 
 <a>
-  <img src="https://github.com/stan-alam/JavaScript/blob/develop/js-algoDev/02/images/js-algoDev02%20-%2024.png" width="80%" height="80%">
+  <img src="https://github.com/stan-alam/JavaScript/blob/master/js-algoDev/02/images/js-algoDev02%20-%20page%2024.png" width="80%" height="80%">
 </a>
