@@ -129,6 +129,17 @@ currentNode = currentNode.next;
 
 ```js
 //cb24.B
+toArray() {
+  const nodes = [];
+
+  let currentNode = this.head;
+  while (currentNode) {
+    nodes.push(currentNode);
+    currentNode = currentNode.next;
+  }
+
+  return nodes;
+}
 ```
 <a>
   <img src="https://github.com/stan-alam/JavaScript/blob/master/js-algoDev/02/images/js-algoDev02%20-%20page%2020B.png" width="80%" height="80%">
