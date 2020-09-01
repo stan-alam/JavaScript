@@ -105,6 +105,18 @@ return deletedTail;
 
 ```js
 //cb24.A
+while (currentNode) {
+  //if callback is specified they find node by callback
+  if (callback && callback(currentNode.value)){
+    return currentNode;
+  }
+// if value us specified then compare by value
+if(value !== undefined && currentNode.value === value) {
+  return currentNode;
+}
+
+currentNode = currentNode.next;  
+}
 ```
 
 <a>
