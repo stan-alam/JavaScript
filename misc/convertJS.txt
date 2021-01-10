@@ -1,0 +1,5 @@
+ var arr = [5, 6, 7, 8]; 
+ var arrayToString = JSON.stringify(Object.assign({}, arr));  // convert array to string
+ var stringToJsonObject = JSON.parse(arrayToString);  // convert string to json object
+
+ console.log(stringToJsonObject);
