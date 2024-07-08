@@ -1,10 +1,14 @@
-Build - [ ] beautiful real-world projects for your portfolio! In these projects, you will learn how to plan and architect your applications using flowcharts and common JavaScript patterns
-Master the JavaScript fundamentals: variables, if/else, operators, boolean logic, functions, arrays, objects, loops, strings, and more
-Learn modern JavaScript (ES- [ ]+) from the beginning: arrow functions, destructuring, spread operator, default arguments, optional chaining, and more
+```ascii
+Build five beautiful real-world projects for your portfolio! In these projects, you will learn how to plan and architect 
+your applications using flowcharts and common JavaScript patterns
+Master the JavaScript fundamentals: variables, if/else, operators, boolean logic, functions, arrays, objects, loops, 
+strings, and more
+Learn modern JavaScript (ES6+) from the beginning: arrow functions, destructuring, spread operator, default arguments, 
+optional chaining, and more
 Deep dive into functions: arrow functions, first-class and higher-order functions, bind, and closures.
 Deep dive into asynchronous JavaScript: the event loop, promises, async/await, and error handling.
 You will use these to access data from third-party APIs with AJAX calls. [This is like a small standalone course]
-Learn modern tools that are used by professional web developers: NPM, Parcel, Babel, and ES- [ ] modules
+Learn modern tools that are used by professional web developers: NPM, Parcel, Babel, and ES6 modules
 What you’ll learn
 
 Learn Basic JavaScript Syntax and Concepts
@@ -16,7 +20,7 @@ Learn the Modern ES- [ ]+ JavaScript Syntax
 Develop Numerous Portfolio Projects with JavaScript
 Understand and Practice Algorithmic Programming with JavaScript
 Future Learning and Next Steps
-
+```
 - [ ] Getting started with the JavaScript ecosystem.
 - [ ] How to think like a Developer!
 
